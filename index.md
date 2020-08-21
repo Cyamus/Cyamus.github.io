@@ -1,275 +1,196 @@
 ---
 layout: page
-title: 順道VPN
-subtitle: Anonymity & Circumvention
-bigimg: /img/rain3.jpg
+title: 塞雅瑪交易優勢匯總
+subtitle: Cyamus Trading Pitchbook
+bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 是基於開源及完全去中心化的[__西蒂姆(Citum)__](../citium_what_for)開發的 **突破網絡審查（陸：翻墻、科學上網）的VPN工具**。它把坊間流行的VPN系統作出了比較重大的改良和升級，幫助用戶克服了重大應用[技術疼點](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point)。<i class='fa fa-rocket' style='color:DimGrey'></i> **順道VPN** 用戶以安全數碼證書（**“通行證書”**）<i class='fa fa-certificate'></i> 間接地通過[西蒂姆(Citum)](../citium_what_for)的去中心化網絡節點 <i class='fa fa-cubes'></i> 獲取用戶身份認證 <i class='fa fa-check-square-o'></i>，而不是使用用戶名及密碼組合在VPN服務器上直接進行認證。
-
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> 西蒂姆客戶端 安卓apk</a>
-{: .myDownloadButton}
-
-注：西蒂姆(Citium)客戶端App和其內置的即時聊天工具(CIM) <i class='fa fa-envelope-o' style='color:blue'></i> 對所有人開源及永久免費使用。
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> **LubeVPN is a VPN Internet censorship circumvention application** built on an open-source and fully decentralized technology: [__Citium__](../citium_what_for). It is a radical departure and upgrade from all the popular VPN systems in the open marketspace, resolving a major [technical pain point](#-%E5%82%B3%E7%B5%B1vpn%E6%8A%80%E8%A1%93%E7%96%BC%E9%BB%9Etechnical-pain-point). <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users authenticate indirectly through [__Citium__](../citium_what_for) decentralized network of nodes <i class='fa fa-cubes'></i> using their secure digital certificates (**“CERT”**) <i class='fa fa-certificate'></i> instead of directly through the VPN servers using username/password combinations.
-
-<a href="https://www.unicorn001.tk/uploads/citium.apk"><i class='fa fa-download'></i> Citium Client Android apk</a>
-{: .myDownloadButton}
-
-Note: Citium Client app and its Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> is open-source and permanently free-to-use for everyone.
-
-## <i class='fa fa-spinner'></i> 免費試用 <i class='fa fa-certificate' style='color:orchid'></i><br>FREE TRIAL
-
-前提是，您必須經由現有 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶推薦才可獲取免費試用。如果不認識，請您通過西蒂姆(Citium)客戶端App的內置的在線客服 <i class='fa fa-comments-o'></i> 聯絡我們。您可以按以下路徑找到在線客服：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-Foremost, you need to know someone who's already using <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN to refer you in order to get the FREE TRIAL. If you do not know anyone, please contact our LIVE HELP <i class='fa fa-comments-o'></i>. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-### <i class='fa fa-wrench'></i> 申辦流程<br>Requisition
-
-找一名持有有效的（即，未逾期的）<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN《通行證書》<i class='fa fa-certificate' style='color:green'></i> 的好友，例如 Alice。通過頻外密鑰驗證（OOBA）添加她成爲 Citium 即時聊天應用（CIM）<i class='fa fa-envelope-o' style='color:blue'></i> 中的聯絡人。于「通行證書」版面 <i class='fa fa-certificate' style='color:blue'></i> 複製您的《通行證書》<i class='fa fa-certificate' style='color:chocolate'></i> 詳情到設備的剪贴板。在你與 Alice 的聊天對話框中黏貼、發送該詳情給她，然後等待她簽署 <i class='fa fa-pencil-square-o'></i> 它。Alice 簽署完畢後，你會在對話框中收到一個互動信息按鈕。您按下該按鈕後即可完成導入 <i class='fa fa-database'></i> 該已被簽署的《通行證書》<i class='fa fa-certificate' style='color:orchid'></i> 到設備內。在「設定」版面 <i class='fa fa-cogs' style='color:blue'></i>，撥熄再撥亮 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的切換鍵去認證 <i class='fa fa-check-square-o'></i> 已簽署的證書 <i class='fa fa-certificate' style='color:blue'></i>。如果認證成功，切換鍵將會轉成綠色 <i class='fa fa-toggle-on' style='color:green'></i>。
-
-1. <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-user-plus' style='color:blue'></i> 加一位 CIM 聯絡人 <i class='fa fa-user' style='color:purple'></i>
-- <i class='fa fa-user' style='color:purple'></i> 必須持有有效通行證書 <i class='fa fa-certificate' style='color:green'></i> †
-- 通過頻外密鑰驗證添加 <i class='fa fa-user' style='color:purple'></i>
-2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> 複製通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>
-- <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> 黏貼發送 <i class='fa fa-certificate' style='color:chocolate'></i> 給 <i class='fa fa-user' style='color:purple'></i>
-- 等 <i class='fa fa-user' style='color:purple'></i> 簽署 <i class='fa fa-pencil-square-o'></i> 您的 <i class='fa fa-certificate' style='color:chocolate'></i>
-- 導入 <i class='fa fa-database'></i> 已被簽署通行證書 <i class='fa fa-certificate' style='color:orchid'></i>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> 認證 <i class='fa fa-check-square-o'></i> 您的 <i class='fa fa-certificate' style='color:orchid'></i>
-- <i class='fa fa-toggle-on' style='color:green'></i> 成功 <i class='fa fa-check-square-o'></i>；順道VPN <i class='fa fa-rocket'></i> 啟用
-- <i class='fa fa-toggle-on' style='color:orange'></i> 失敗 <i class='fa fa-check-square-o'></i>；模擬網絡 <i class='fa fa-key'></i> 啟用
-
-{: .box-note}
-† 順道VPN用戶使用安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 來訪問VPN服務，而不是用戶名/密碼組合。所有有效的《通行證書》<i class='fa fa-certificate' style='color:green'></i> 都是源自用戶 **自我生成的、未被簽署的通行證書** <i class='fa fa-certificate' style='color:chocolate'></i>。**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 是已簽署的和未過期的《通行證書》<i class='fa fa-certificate' style='color:green'></i>。它好比一張入場券能授權持有人使用 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務。**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 更可以 *讓持有者簽署* <i class='fa fa-pencil-square-o'></i> 其西蒂姆即時聊天工具上其他聯絡人的、未被簽署的通行證書 <i class='fa fa-certificate' style='color:chocolate'></i>。**有效通行證書** <i class='fa fa-certificate' style='color:green'></i> 有兩種：**被簽署了的、未過期的免費的通行證書** <i class='fa fa-certificate' style='color:orchid'></i> 和 **付費了的通行證書** <i class='fa fa-certificate' style='color:DarkKhaki'></i>。一張被簽署但免費的通行證書 <i class='fa fa-certificate' style='color:orchid'></i> 能授權其持有人訪問 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的免費試用服務。付費續時的通行證書 <i class='fa fa-certificate' style='color:DarkKhaki'></i> 持有者不單享受更高級的 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務，每當受薦人續時後，他更 **能賺取可兌換的積分**。詳情請參閱[推薦人計劃](../referral)。
-
-Find a friend (e.g. Alice) who holds a valid (i.e. unexpired) <i class='fa fa-rocket'></i> LubeVPN CERT. Add Alice as your new Contact in your Citium Instant Messenger (CIM) <i class='fa fa-envelope-o' style='color:blue'></i> via out-of-band (OOB) authentication. Go to the Certificate page <i class='fa fa-certificate' style='color:blue'></i> to copy your CERT <i class='fa fa-certificate' style='color:chocolate'></i>, paste and send the details via the dialogue box between you and Alice and wait for her to sign <i class='fa fa-pencil-square-o'></i> it. Once Alice signs <i class='fa fa-pencil-square-o'></i> it, you will receive an interactive message button in the dialogue box. You press the button to import the signed CERT <i class='fa fa-certificate' style='color:green'></i> to your device. In General Settings <i class='fa fa-cogs' style='color:blue'></i>, turn off and on the <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN toggle switch to validate <i class='fa fa-check-square-o'></i> the signed CERT <i class='fa fa-certificate' style='color:green'></i>. Toggle switch turns to green <i class='fa fa-toggle-on' style='color:green'></i> if validation succeeds.
-
-1. Install & open Citium Client
-- <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-user-plus' style='color:blue'></i> Add a CIM Contact <i class='fa fa-user' style='color:purple'></i>
-- <i class='fa fa-user' style='color:purple'></i> must holds a valid CERT <i class='fa fa-certificate' style='color:green'></i> †
-- Add <i class='fa fa-user' style='color:purple'></i> via OOB authentication.
-2. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-files-o' style='color:blue'></i> Copy CERT <i class='fa fa-certificate' style='color:chocolate'></i>
-- <i class='fa fa-envelope-o' style='color:blue'></i> > <i class='fa fa-clipboard' style='color:blue'></i> Paste & send <i class='fa fa-certificate' style='color:chocolate'></i> to <i class='fa fa-user' style='color:purple'></i>
-- Wait for <i class='fa fa-user' style='color:purple'></i> to sign <i class='fa fa-pencil-square-o'></i> your <i class='fa fa-certificate' style='color:chocolate'></i>
-- Import <i class='fa fa-database'></i> signed CERT <i class='fa fa-certificate' style='color:orchid'></i>
-3. <i class='fa fa-cogs' style='color:blue'></i> > <i class='fa fa-toggle-off'></i> > <i class='fa fa-toggle-on'></i> Validate <i class='fa fa-check-square-o'></i> your <i class='fa fa-certificate' style='color:orchid'></i>
-- <i class='fa fa-toggle-on' style='color:green'></i> Success <i class='fa fa-check-square-o'></i>; VPN <i class='fa fa-rocket'></i> Starts!
-- <i class='fa fa-toggle-on' style='color:orange'></i> Fail <i class='fa fa-check-square-o'></i>; Simulated Net <i class='fa fa-key'></i> Only.
-
-{: .box-note}
-† <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users use secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i> to access VPN service instead of username/password combinations.  All valid CERT <i class='fa fa-certificate' style='color:green'></i> is originated from **self-generating unsigned CERT** <i class='fa fa-certificate' style='color:chocolate'></i>. A **valid CERT** <i class='fa fa-certificate' style='color:green'></i> is a signed & unexpired CERT <i class='fa fa-certificate' style='color:green'></i>, functioning as a ticket/pass, authorizes its holder to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service. A valid CERT <i class='fa fa-certificate' style='color:green'></i> also *enables its holder to sign* <i class='fa fa-pencil-square-o'></i> the unsigned CERTs <i class='fa fa-certificate' style='color:chocolate'></i> held by his/her Citium Instant Messenger (CIM) Contacts. There are two kinds of valid CERT in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: **signed free CERT** <i class='fa fa-certificate' style='color:orchid'></i> & **paid CERT** <i class='fa fa-certificate' style='color:DarkKhaki'></i>. A signed but free CERT <i class='fa fa-certificate' style='color:orchid'></i> authorizes its holder to access a FREE TRIAL of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN. A holder of paid CERT <i class='fa fa-certificate' style='color:DarkKhaki'></i> not only enjoys a higher level of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service, but also **earns redeemable points** whenever the referred users renew their CERTs <i class='fa fa-certificate'></i>. Please read the [Referral Program](../referral) for more information.
-
-
-
-## <i class='fa fa-globe'></i> 繞過萬里網審<br>Censorship Circumvention
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是基於[西蒂姆(Citum)](../citium_what_for)建立的。西蒂姆的去中心化網絡身份及數據混淆技術能讓 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶匿名地、自由自在地上網。除此之外，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN能繞過最嚴峻的網絡審查（**甚至是其他VPN服務商無法繞過的**），所以其用戶能順暢無阻地讀取和瀏覽任何全世界任何一個受到互聯網審查封禁的網站。		
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is built on [Citium](../citium_what_for). Citium's decentralized network identity and data obfuscation technology enables <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users to surf the Internet anonymously and freely. Moreover, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can **circumvent the strictest Internet censorship that most other VPN service providers cannot circumvent** so that users can access and surf any blocked content smoothly.
-
-### <i class='fa fa-thumb-tack'></i> 傳統VPN技術疼點<br>Technical Pain Point
-
-一方面，世界各地的監管部門利用互聯網審查系統來控制和壓制互聯網內容；另一方面，網民千方百計地設法規避，例用VPN軟件服務去訪問封禁了的網域和IP地址。這些VPN軟件服務有時候能奏效，但絕大多數都不起作用，因為監管部門一直在升級他們的審查技術。個別審查機制的技術領先程度已經超出了一般人的想象，不止限制用戶訪問敏感的網絡域名和IP地址，更會使用機器學習算法來分析互聯網訊息交互數據，鎖定VPN的訊息交互特征以阻止其用戶訪問服務。**那些還在用老套的「用戶名/密碼」組合去作為身份驗證機制的VPN服務，在這些侵擾性審查機制面前顯得不堪一擊、格外脆弱**。
-
-所有的VPN服務提供商在授權訪問之前，都必須對用戶的訪問權限進行認證。傳統的VPN服務提供商通過用戶端客戶端與VPN服務器端之間的通信（即「雙向握手」<i class='fa fa-exchange'></i>）對用戶進行身份驗證的時候會彰顯訊息交互特征。**那些越是流行的VPN服務，就越是容易被審查機制偵查到特征**，因為流行的VPN服務在互聯網上每日發生成千上萬的雙向握手特征太過顯著。事實上，大多數馳名的VPN品牌都都無法規避越來越嚴峻的網絡審查制度。
-
-On the one hand, regulators use Internet censorship systems to control and suppress Internet contents. On the other hand, Internet surfers use software, such as VPN, to circumvent the suppression so that they can access suppressed web domains and IP addresses. Some can succeed but most fail because regulators are always upgrading their censorship mechanism. The extent of Internet censorship of some regulators has gone beyond just limiting user access to sensitive web domains and IP addresses. Their censorship mechanisms have even started to use machine learning algorithms to analyze Internet traffic data in order to block VPN service access. **VPN services that are still using username/password combination as authentication regime are exceptionally vulnerable** to this kind of obtrusive Internet censorship.
-
-All VPN service providers have to authenticate their users' access rights before authorizing access. Conventional VPN service providers authenticate their users through user-side client to VPN-side server communication (i.e. two-way handshake <i class='fa fa-exchange'></i>), which exhibit easily detectable traffic patterns. In fact, **the more popular a VPN service becomes, the more susceptible it is to suppression** because its tens of thousands of two-way handshake that happens on the Internet are simply too conspicuous. Hence, most of the popular VPN brands fail to circumvent network censorship that's getting more and more stringent.
-
-### <i class='fa fa-life-ring'></i> 去中心化的解决方案<br>Decentralized Solution
-
-相比之下，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 的用戶不使用傳統的、與VPN服務器的雙向握手 <i class='fa fa-exchange'></i> 進行認證，而是通[西蒂姆(Citum)](../citium_what_for)的分佈式網絡節點 <i class='fa fa-cubes'></i> 進行認證 <i class='fa fa-check-square-o'></i>。與傳統的雙向握手不同，**<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 通過[西蒂姆(Citum)](../citium_what_for)的隨機節點 <i class='fa fa-cubes'></i> 進行多向握手 <i class='fa fa-random'></i>** 進行認證 <i class='fa fa-check-square-o'></i>。用戶只可以通過西蒂姆(Citum)網絡節點 <i class='fa fa-cubes'></i> 間接地與VPN服務器接觸，直到VPN訪問被授權為止，不產生明顯訊息交互特征。事實上，西蒂姆(Citum)客戶端App應用越是流行（即，節點 <i class='fa fa-cubes'></i> 越多），用戶認證過程中產生的多向握手 <i class='fa fa-random'></i> 與普通的互聯網數據就越無法被區分。因此，使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的互聯網用戶可以規避即便是最嚴酷的審查技術。
-
-In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN users do not use conventional two-way handshake <i class='fa fa-exchange'></i> to communicate with VPN servers. Instead, the users communicate indirectly with VPN servers through the decentralized [Citium](../citium_what_for) network of nodes <i class='fa fa-cubes'></i>. **Authentication on <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is more like a multi-way handshake <i class='fa fa-random'></i> through randomized nodes <i class='fa fa-cubes'></i> of [Citium](../citium_what_for)**. Users engage indirectly with VPN servers through other user nodes <i class='fa fa-cubes'></i> of Citium until VPN access is authorized. The process shows no significant traffic patterns. In fact, the more popular Citium Client app becomes (i.e. more nodes <i class='fa fa-cubes'></i>), the more indistinguishable the multi-way handshaking traffic <i class='fa fa-random'></i> is from regular Internet traffic. Hence, Internet surfers that use <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN can circumvent even the most stringent censorship system.
-
-### <i class='fa fa-compass'></i> 開天闢地的技術<br>Ground-Breaking Tech
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從芸芸最強的加密算法中選擇了合適的算法作為用戶的數據傳輸，可以在特別敏感的社政管理地區繞過萬里的網絡重圍，全自動地幫你選擇最佳服務器，**恍如無間地高速通向所有境外受限內容，更可以避免網絡提供商（ISP）的網速限制**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN整個服務流程百分百完全匿名，絕對不記錄任何用戶個人隱私信息，過程中絕不收取用戶實名電郵或身份證明。用戶只可以通過安全數字證書（“通行證書”） <i class='fa fa-certificate'></i> 申辦和激活服務。
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN utilizes some of the strongest encryption algorithms to transport user data. It automatically chooses the best server that can circumvent blocking, **bypass restrictive censorship, and avert ISP bandwidth speed throttling**. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN respects the total privacy of all existing and even prospective users. No private information is ever asked, not to mention recorded. Prospective customers do not need to provide email, name or any kind of identification to use the service. Users can only apply and activate <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service through secure digital certificates (“CERTs”) <i class='fa fa-certificate'></i>.
-
-## <i class='fa fa-shield'></i> 用戶資訊安全<br>User InfoSec
-
-傳統用戶管理系統依賴中央化服務器的關系型數據庫記錄用戶註冊、推薦人與受薦人之間的關系，安全和匿名程度都比較低。反觀，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶登記和推薦系統是通過數字簽名和數字證書以P2P的形式來綁定的。更具體來說，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不單不記錄任何用戶信息，就連推薦系統都用了推薦人的獨特數字簽名和受薦人持有的簽名數字證書（即，已簽署的《免費通行證書》來安全地、隐蔽地綁定彼此的關系， **不會被記錄在任何第三方關係型數據庫上，有效地防範用戶個人數據洩露與關聯性信息分析於未然**。
-
-Traditional user management systems rely on relational databases on centralized servers to record user registrations and the referral relationships. That regime is prone to security and privacy breach. In contrast, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's referral relationships are recorded by securely and privately binding digital signatures and their signed certificates in a peer-to-peer fashion. More specifically, <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN does not ask for or record any user information. A referral relationship in <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is securely bound based on the unique digital signature of the referrer and the signed digital certificate (i.e. signed CERT <i class='fa fa-certificate' style='color:green'></i>) held by the referred user, **not recorded in any third-party party relational database, effectively preempting user data breach and link analysis**.
-
-### <i class='fa fa-book'></i> 不寫Log政策<br>No Log Policy
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN不記錄任何接來自用戶的網絡接駁來源的信息。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN從技術設計上來說，在本質機制上不能記錄也 **不會記錄任何用戶個人信息**。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN僅記錄數據使用量，用以確保服務質量，及預防服務被濫用。<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的用戶可以安心地使用<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN，因為每張加密安全證書只可同時用於一台終端，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是 **不允超過一台終端同時使用一張證書** 的。
-
-Lube VPN does not record network routing information, such as originating IP and device. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN is also technically designed so that it is inherently incapable to record and will **not record any user information** such as name, phone or ID. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only records VPN traffic volume usage to ensure quality of service and to prevent service misuse. Users can feel secure because the usage is exclusively allowed to be accessed on a one-on-one basis: one (1) <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN cryptographically secure certificate can only be used on one (1) device at the same time. **Simultaneous access of one certificate on multiple devices is prohibited**.
-
-### <i class='fa fa-pencil-square-o'></i> 簽署 和 <i class='fa fa-check-square-o'></i> 認證 <br>Signing & Validation
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN是不會任意地接受任何一個《免費通行證書》的認證請求的，而是僅限於由持有有效的（未過期的）通行證書的簽署者簽署過的《免費通行證書》。簡單來說，**只有被現有<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶簽署過的《免費通行證書》，<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN才會接受其請求** 去認證它。認證通過後，持有該《免費通行證書》的受薦人才能獲得授權訪問<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的VPN服務。
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN will not accept validation requests from any CERT <i class='fa fa-certificate'></i> unless it is signed <i class='fa fa-pencil-square-o'></i> by one who holds a valid (i.e. unexpired) CERT <i class='fa fa-certificate' style='color:green'></i>. Simply put, **<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN only validates CERTs <i class='fa fa-certificate'></i> signed by existing users**. Once a validation succeeds, the holder of the valid CERT <i class='fa fa-certificate' style='color:green'></i> is authorized to access <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service.
-
 {: .box-warning}
-**溫馨提醒:** 每一個持有已簽署的《通行證書》的持有者都有責任不丟失自己的《通行證書》 。尤其要小心，**不要不小心清除了存儲《通行證書》的 Citium 客戶端 app 的數據**，因為已簽署的《通行證書》是唯一的能證明推薦人與受薦人關系的證據。用戶不論任何原因遺失《通行證書》，如卸載並重裝 Citium 客戶端 app，遺失或更換手機，平板或電腦而未預先備份《通行證書》，用戶將永久地無法重新登入、亦同時失去該《通行證書》的存取及使用權，並且會永久失去《通行證書》關聯的 Citium 即時通訊工具的通訊帳戶、聯絡人列表、對話紀錄及所有通訊存儲內的多媒體資料和其使用權。而<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN的客服、代理及管理員於任何情況下均無法協助用戶重新登入、存取及使用該《通行證書》，這也是我們安保設計的精妙之處。
-<br><br>
-**GENTLE REMINDER:** Every holder of the signed CERTs is responsible for not losing one's own signed CERT. Be careful **not to accidentally clear the data of the Citium Client app** that stores the signed CERT because it is the only evidence to prove the user registration status, as well as the referral relationship between its user and its signer. If a user loses the signed CERT for any reason (e.g. uninstalls and reinstalls the Citium Client App; loses or replaces the mobile phone, tablet or computer; fails to back up the CERT in advance), the user will no longer be able to log back in, permanently lose access access to service, including everything related to Citium Instant Messenger, such as Contacts list, its chat history and its multimedia contents. <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN's customer service representatives, partnership agents and administrators are under no circumstances able to assist the user to log in, access and use the CERT again, which is the beauty of our security design.
+**免责声明**：塞雅瑪不提供任何税务、法律或投资意见、个人建议或投资建议。塞雅瑪也不提供任何税务、法律或投资建议、个人推荐或投资建议，本网站的任何内容都不应被解释或诠释为投资建议、出售或购买要约、购买要约的邀约或与任何金融工具投资有关的建议。<br>**Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
-## <i class='fa fa-calendar-plus-o'></i> 通行證書續時 <i class='fa fa-certificate' style='color:DarkKhaki'></i><br>CERT Renewal
+致 对新兴及另類投資市場管理人、组合型基金、孵化平台、家族办公室、高净值个人和捐赠基金：
 
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN以現收現付的方式向付費通行證書 <i class='fa fa-certificate' style='color:DarkKhaki'></i> 持有者提供VPN服務，因為VPN流量需要我們維護部署在全球多國的VPN服務器。
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN provided VPN service to the holders of paid CERT <i class='fa fa-certificate' style='color:DarkKhaki'></i> on a pay-as-you-go basis because the sheer traffic volume of VPN require us to maintain multiple servers in different countries around the world.
-
-### <i class='fa fa-clock-o'></i> 續時抵值費率<br>Renewal Rate
-
-推廣活動期間，**費率 <i class='fa fa-bar-chart'></i>** 按續時週期收費。一次性**續時週期 <i class='fa fa-calendar'></i>** 越長則折扣優惠越大、可享受**流量配額 <i class='fa fa-signal'></i>** 越大。每個週期的剩餘流量配額 <i class='fa fa-signal'></i> 逾期不留；即，激活起每30天一個週期的流量配額 <i class='fa fa-signal'></i> 如果用不完，不能留待到下一個週期繼續使用。
-
-During our promotion period, **rates <i class='fa fa-bar-chart'></i>** will be based on the renewal period: the longer the one-time **renewal timeframe <i class='fa fa-calendar'></i>**, the greater the discount and the greater the **traffic quota <i class='fa fa-signal'></i>**, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
-
- {: style='color: navy; font-size: 90%; table-align: center;"}
- | <i class='fa fa-bar-chart'></i><br>USD | <i class='fa fa-calendar'></i><br>Day | <i class='fa fa-signal'></i><br>GB | <i class='fa fa-film' style='color:red'></i><br>Hour |
- |:--:|:--:|:--:|:--:|
- | <b>$12.95</b> | 30 | ≤100 | ~380 |
- | <b>$57.45</b> | 180 | ≤110 | ~417 |
- | <b>$86.15</b> | 360 | ≤120 | ~455 |
-
- {: .box-success}
-**<i class='fa fa-film' style='color:red'></i>**：假設的大前提是 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN會員用戶只用於觀看 YouTube 標準制式的 480p 視頻，而這種制式的視頻約每小時消耗264 MB的VPN流量。那麼，如果會員按30日續時，則可以在每30日享用高達380小時；如果會員按180日續時，則可以在每30日享用高達417小時；如果會員按360日續時，則可以在每30日享用高達455小時。<br>
-**<i class='fa fa-film' style='color:red'></i>**: The assumption is that <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN members only use the YouTube standard 480p video format, which consumes about 264 MB of VPN traffic. So, if you are a 30-Day member, you can enjoy up to 380 hours for every 30 days; if you are a 180-Day memberr, you can enjoy up to 417 hours for every 30 days; and if you are a 360-Day member, you can enjoy up to 455 hours for every 30 days.
-
-### <i class='fa fa-shopping-cart'></i> 續時抵值形式<br>Payment Methods
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN用戶可以通過多種 __抵值形式__ 來 __續時__（延長接受服務的週期）。暫時提供給用戶續時的抵值形式有：
-
-Users can use choose from several methods to renew in order to extend the usage of <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN:
-
-{: style='color: DarkRed; font-size: 90%;"}
-| <i class='fa fa-shopping-cart'></i> | 抵值形式<br>Payment<br>Methods
-|:--:|:--:|
-| <i class='fa fa-btc'></i> | 加密電子幣<br>Coinbase Coins |
-| <i class='fa fa-jpy'></i> | 中港台法幣<br>Fiat Credits |
-| <i class='fa fa-video-camera'></i> | 奈飛影視套餐<br>Netflix Bundle |
-| <i class='fa fa-cloud'></i> | [虛擬卡卡密<br>Vitual Cards](../payment_cards) |
-| <i class='fa fa-envelope'></i> | [實體卡卡劵<br>Physical Cards](../payment_cards) |
-
-用戶先自行選擇一種抵值形式（不允許多種形式混合），採購足夠額度的抵值商品。採購成功後，敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-Choose a payment method to your liking (mixing different methods is not allowed). After procuring sufficient amount of crypto coins, fiat credits, virtual or physical cards, you can contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-### <i class='fa fa-btc'></i> 續時抵值：加密幣<br>By Coinbase Coins
-
-![Acceptable Cryto Coins](/img/coinbase.svg "Acceptable Crypto Coins at Coinbase")
-
-<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN通過國際知名的 [Coinbase Commerce](https://commerce.coinbase.com/) 加密幣充值接口和錢包接受抵值。接受的各種流行加密幣種有 <i class='fa fa-btc'></i> Bitcoin、Bitcoin Cash、Dai、Ethereum、Litecoin 和 USD Coin。請按您希望抵值的續時週期點擊進入 Coinbase Commerce 充值購買所需的等值。敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-You can renew <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN through [Coinbase Commerce](https://commerce.coinbase.com/) by <i class='fa fa-btc'></i> Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin & USD Coin. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-[<i class='fa fa-shopping-cart'></i> 30日 續時需相當 <i class='fa fa-usd'></i>12.95 USD 加密幣抵值](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)<br>[<i class='fa fa-shopping-cart'></i> 30-Day Renewal @ <i class='fa fa-usd'></i>12.95 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
-{: .myButton}
-
-[<i class='fa fa-shopping-cart'></i> 180日 續時需相當 <i class='fa fa-usd'></i>57.45 USD 加密幣抵值](https://commerce.coinbase.com/checkout/44e644c9-1704-4c3a-9469-3a9ce073f577)<br>[<i class='fa fa-shopping-cart'></i> 180-Day Renewal @ 57.45 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
-{: .myButton}
-
-[<i class='fa fa-shopping-cart'></i> 360日 續時需相當 <i class='fa fa-usd'></i>86.15 USD 加密幣抵值](https://commerce.coinbase.com/checkout/752a5a80-2f06-44e3-954a-d25c10dacf18)<br>[<i class='fa fa-shopping-cart'></i> 360-Day Renewal @ <i class='fa fa-usd'></i>86.15 USD of Crypto](https://commerce.coinbase.com/checkout/d3b2abdd-a42d-4636-a020-977df3348813)
-{: .myButton}
+To emerging/alternative investment market managers, funds of funds, seeding/incubator platforms, family offices, high-net-worth individuals and endowments:
 
 
-### <i class='fa fa-jpy'></i> 續時抵值：中港台會員常用<br>By Fiat Membership Credits
-
-![Fiat Currency Credits](/img/fiat_credits.svg "UnionPay, AliPay, WeChat Pay, VISA, MasterCard, AMEX, JCB, Diners Club, HSBC FPS, HSBC PayMe")
-
-中港台常用抵值辦法，由「易電票」（[https://etickets.hk/](https://etickets.hk/)）提供，敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們協助您完成續時抵值的餘下手續。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-Mainland China, Hong Kong and Taiwan users can use [eTickets.HK](https://etickets.hk/) to renew membership. Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-[<i class='fa fa-shopping-cart'></i> 30/180/360日的續時抵值](https://etickets.hk/en/project/lubevpn)<br>[<i class='fa fa-shopping-cart'></i> 30/180/360-Day Renewal](https://etickets.hk/en/project/lubevpn)
-{: .myButton}
+<i class='fa fa-university'></i> **塞雅瑪交易科技** （「**塞雅瑪**」）於2019年由[李明先生](https://bit.ly/terryli)成立（前[796交易所](https://www.796.com)副總裁、前[TDEx交易所](https://www.tdex.com)總裁、[TSL系統](https://www.tradingsystemlab.com)大中華區分銷代理）。塞雅瑪为积极[寻求非对称回报](https://en.wikipedia.org/wiki/Asymmetric_payoff)的机构客户提供系统化交易和数据分析服务。事实上，我们不提供任何**年化[风险回报率](https://en.wikipedia.org/wiki/Risk_return_ratio)**([CAGR](https://www.investopedia.com/terms/c/cagr.asp)/[MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp))低于6的交易系统。我们不采用[「2和20」的收费安排](https://www.investopedia.com/terms/t/two_and_twenty.asp)。我们的收费安排是「0和30」。我们的大多数投资者都喜欢这种收费结构，只有在我们的交易系统表現良好时才需支付費用。
 
 
-
-### <i class='fa fa-video-camera'></i> 續時抵值：奈飛折扣<br>Netflix Discount
-
-![NETFLIX](/img/Netflix_logo.svg "Netflix")
-
-由 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 為您帶來的奈飛特別折扣：從 <i class='fa fa-video-camera'></i> 奈飛 (Netflix) 官方價格起五折優惠！所有家庭計劃提供**奈飛高級超高清** (Netflix Premium Ultra HD, 4K) 流媒體服務，全球直接來自官方奈飛！
-
-所有家庭計劃提供直接從奈飛獲取的高級超高清流媒體服務。每個計劃包括一個主賬戶和四個家庭成員的子賬戶。請注意，您不能更改配置給您的奈飛主賬戶的登錄用戶名，但您可以自定其的密碼。換句話說，每個家庭計劃可以同時支持五台設備，允許您和您的家庭成員從非中國大陸IP（如澳門、香港和台灣、美國、英國、澳大利亞、加拿大等IP）訪問奈飛服務。家庭計劃提供以下三種選擇：
-
-- **單月家庭計劃 (6.50 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 1个月
-- **半年家庭計劃 (35.00 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高超超高清 6个月
-- **全年家庭計劃 (74.00 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 12个月
-
-**奈飛單月/半年/全年家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
-
-[<i class='fa fa-shopping-cart'></i> Netflix 單月/半年/全年家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
-{: .myButton}
-
-敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-Netflix special discount brought to you by <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN: 50% OFF from <i class='fa fa-video-camera'></i> Netflix official price!
-
-All Family Plan offer Netflix Premium Ultra HD (4K) Streaming Service direct from Netflix. Each Plan includes one (1) Master Account and four (4) Profile Accounts for your family members. Note that you cannot change the login username of the Netflix Master Account assigned to you but you can customize the password of the Master Account. In other words, each Family Plan can concurrently support up to five (5) devices allowing you and your family members to access Netflix service from non-mainland China IPs (e.g. IPs from Macau, Hong Kong and Taiwan, US, UK, Australia, Canada etc). Family Plan offers three options as follows:
-
-- **Family Plan Jr. (6.50 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-- **Family Plan Plus (35.00 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-- **Family Plan Jumbo (74.00 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
-
-Payment gateway of **Netflix Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/en/project/lubevpn-netflix/).
-
-[<i class='fa fa-shopping-cart'></i> Netflix Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
-{: .myButton}
-
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment so that we can send you the usage instructions and login/password combination for Netflix. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
-
-### <i class='fa fa-mixcloud'></i> 中國大陸境內看奈飛<br><i class='fa fa-video-camera'></i> Netflix + <i class='fa fa-rocket'></i> LubeVPN
-
-![NETFLIX_and_LubeVPN](/img/nl.svg "Netflix + LubeVPN")
-
-如果您旅居中國大陸，希望從內地訪問奈飛，建議您選擇以下捆綁計劃，因為奈飛有[IP限制區域政策](https://help.netflix.com/legal/termsofuse)。
-
-每一個捆綁計劃都已經包含了上面相應計劃中的所有服務功能。新增的 <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN服務可以讓您在中國大陸境內或境外都能流暢地訪問奈飛流媒服務。每一個捆綁計劃都有30天一個計算週期的VPN流量配額 <i class='fa fa-signal'></i>，自激活之日起，每30天重置一次。未使用的剩余流量配額將不會被轉入下一個30天的計算週期。
-
-- **單月捆綁家庭計劃 (18.45 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 1个月
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 30-日 <i class='fa fa-signal'></i> 100 GB
-- **半年捆綁家庭計劃 (88.70 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高超超高清 6个月
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 180-日 <i class='fa fa-signal'></i> 110 GB
-- **全年捆綁家庭計劃 (148.80 USD)**:
-  - <i class='fa fa-video-camera'></i> 奈飛高級超高清 12个月
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN 360-日 <i class='fa fa-signal'></i> 120 GB
+<i class='fa fa-university'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, we do not offer any trading system which **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) is lower than 6. We do not use the [two and twenty (or "2 and 20") fee arrangement](https://www.investopedia.com/terms/t/two_and_twenty.asp). Ours is "0 and 30". Most of our investors prefer this fee structure, only paying if our trading system performs.
 
 
-**奈飛單月/半年/全年捆綁家庭計劃** 的付款網關由[eTickets.hk](https://etickets.hk/tc/project/lubevpn-netflix/) 提供：
+塞雅瑪量化開發人員專注於調研金融市場中[波動率點差潛力](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp)最高的交易工具。目前，我们于如下三个市场分類中開發對應的交易系統：1、**日元貨幣對**；2、**股票指數對**；3、**加密幣對**。其中，針對「日元貨幣對」和「股票指數對」品類的交易系統已經自2019年2月以来投入實盤交易（*LIVE*）；而針對「加密幣對」品類的交易系統依然在内部测试階段，快將邀約客戶加入實盤交易：
 
 
-[<i class='fa fa-shopping-cart'></i> Netflix 單月/半年/全年捆綁家庭計劃](https://etickets.hk/tc/project/lubevpn-netflix/)
-{: .myButton}
+Our quantitative developers focus on researching and developing mid-frequency trading systems for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp). We develop trading systems to trade the instruments that belong to these three categories: 1) **Japanese Yen Pairs**; 2) **Stock Index Pairs**; and 3) **Crypto Pairs**. The strategies that trade on the *Japanese Yen Pairs* and *Stock Index Pairs* have gone *LIVE* trading real money since February 2019; and the one that trade on the *Crypto Pairs* is still being tested in-house sooner become available for invited clients to trade *LIVE*:
+
+1. **日元貨幣對 Japanese Yen Pairs** (*LIVE*)
+    - US Dollar to Japanese Yen
+      - *USD/JPY*
+    - Euro Dollar to Japanese Yen
+      - *EUR/JPY*
+    - Great British Pound to Japanese Yen
+      - *GBP/JPY*
+2. **股票指數對 Stock Index Pairs** (*LIVE*)
+    - US Dow Jones Industrial Average
+      - *USA30.IDX/USD*
+    - Germany DAX 30 Stock Market Index
+      - *DEU.IDX/EUR*
+3. **加密币對 Crypto Pairs** (*Testing...*)
+    - Bitcoin
+      - *BTC/USD*
+    - Ether
+      - *ETH/USD*
+
+<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 自2004年起根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据进行历史回溯测试。外汇经纪行业的趋势是提供越来越高的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp),有时高达200:1,但塞雅瑪日元交易系统发出的建倉信号从未超过**7.42:1**。因此，我们的客户大多可以放心，因為他们多年来一直在使用的外汇经纪商高幾率能与塞雅瑪日元交易系统兼容。
+
+<i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
+
+<i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统** 自2014年以来，根据[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)提供的买入卖出逐筆数据(bid-n-ask tick data)进行历史回测。塞雅瑪指数交易系统使用的[杠杆比率](https://www.investopedia.com/ask/answers/06/forexleverage.asp)从未超过**14.35:1**，远低于杜高斯貝银行提供給差价合约(CFD)交易工具的50:1(工作日)和30:1(周末)。
+
+<i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**，which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD trading instruments.
+
+请注意，<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统** 会随着市场机会的出现而建立新仓位，即建立新仓位的决策过程不考虑现有仓位。因此，仓位[增減](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades)和[對沖](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp)可能发生，但它们不是交易系统的固有部分。
+
+Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
+
+## <i class='fa fa-university'></i> 塞雅瑪交易系統<br>Cyamus' Trading Systems<br>
+
+<i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-pie-chart'></i> **塞雅瑪指数交易系统** 自2019年2月起帮助客户交易實盤市场。我们的客户很高兴地看到，他们的實盤交易表现与历史表现相似。需要注意的是，历史业绩与實盤交易结果相似，仅在入场和出场价位方面。投资回报率根据客户个人[风险承受能力](https://www.investopedia.com/terms/r/risktolerance.asp)而有所不同。
+
+<i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp).
+
+<a href="/img_pr/Cyamus_Trading.pdf"><i class='fa fa-download'></i> Cyamus Clients' *LIVE* Trading Performance Reports & Testimonials in PDF</a>
+{: .myDownloadButton}
+
+我们相信，成績優異的實盤交易结果和稱心滿意的客户分享仅仅是我们交易系統中令人振奋的部分；您应该分析我们的历史交易业绩矩阵，以决定我们的交易系统是否能与您现有的投资风格相得益彰。下面，我们将重点介绍一些主要的业绩指标：
+
+- **[最大回撤(MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** 和 **年化[风险收益率](https://en.wikipedia.org/wiki/Risk_return_ratio)** 将帮助您计算出您的[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)在时间范围内的配置。
+- **R-预期** = 所有交易的净利润 ÷ 交易总数 ÷ 每笔亏损交易的平均损失 = 每笔交易的平均利润率（APPT）÷ 每笔亏损交易的平均损失（R）。它将帮助您评估每笔交易的回报风险比。换句话说，它可以让您了解从我们的交易系统，從每一美元冒的风险中可以獲得的平均预期回報。
+
+We believe that spectacular *LIVE* trading results and satisfactory clients are only the electrifying parts our trading systems. You should also analyze our historical trading performance matrices in order to decide for yourselves if our trading system can compliment your existing investment style. In the following, we highlight some of the major performance measures:
+
+- **[Maximum Drawdown (MDD)](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** and **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** will help you work out your [risk capital](https://www.investopedia.com/terms/r/riskcapital.asp) allocation on a time horizon scale.
+- **R-Expectancy** = Net Profit of All Trades ÷ Total Number of Trades ÷ Average Loss per Losing Trade = Average Profitability per Trade (APPT) ÷ Average Loss per Losing Trade (R). It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of the return that you can expect from our trading systems on the average per dollar risked.
+
+### <i class='fa fa-bar-chart'></i> 交易績效度量辦法<br>Performance Measures
+
+我們最先開發的的交易系统是針對 **日元貨幣對** (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**；後來開發的第二套交易系统是基於 **股票指數對** (<b>USA30.IDX/USD</b> 和 <b>DEU.IDX/EUR</b>) 的 <i class='fa fa-yen'></i> **塞雅瑪股指交易系统**。它們都自2019年2月起在[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)上进行實盤交易。
+
+The earliest trading system that we developed is on *Japanese Yen Pairs* (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) are <i class='fa fa-yen'></i> **Cyamus Yen Trading System**. The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. They have been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
+
+下面介绍該两套（2）交易系统的歷史回测报告。它们共享相同的仓位进入设置和退出。它们只是基于不同的仓位管理技巧而构建，以便您可以更清楚地了解它們的特征。
+
+Historical backtesting reports of the two trading systems are presented below. They share the same position entry setup and exit. They are simply constructed based on different position sizing techniques so that you can have a clearer picture of how the trading systems perform.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
+动态手數为管理仓位大小的技巧，可以帮助您了解您的投资在一段时间内可能会以多少以百分比增长，有效地消除了风险资本分配的因素差異。也就是说，无论您最初配置多少资金来交易系统，业绩衡量标准仍然可以适用，因為所有的新仓位都是根据开立新仓位时的**账户余额**(**CAB**)和**[最大回撤](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)**(**MDD**)动态调整大小。
+
+Dynamic Lot as position sizing technique helps you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable because all new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
+
+- <i class='fa fa-yen'></i> **塞雅瑪日元交易系统**
+<i class='fa fa-yen'></i> **Cyamus Yen Trading System**
+  - 新建立的仓位规模等于 **0.01 x 10% x CAB/MDD**，其中 0.01 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的外汇货币对最低交易规模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-7.36%**，以2004年至2020年7月的历史业绩数据为准。
+  Newly established position size equals to **0.01 x 10% x CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
+- <i class='fa fa-pie-chart'></i> **塞雅瑪股指交易系统**
+<i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
+  - 新建立的仓位规模等于 **0.1 x 10% x CAB/MDD**，其中 0.1 为[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)允许的差價合約对最低交易規模，10% 为 **[风险资本](https://www.investopedia.com/terms/r/riskcapital.asp)** 的控制因素，**MDD** 为 **-10.30%**，以2014年至2020年7月的历史业绩数据为准。
+  Newly established position size equal to **0.1 x 10% x CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+固定手数作为管理仓位大小技巧，使我们能够给您展示一個公平合理的 **R-预期**。它将帮助您评估每笔交易的回报风险比。换句话说，它能让您了解从我们的交易系统中可以得到的平均预期（即每一美元的风险）。
+
+Fixed Lot as position sizing technique allows us give you a fair and reasonable presentation of the **R-Expectancy**. It will help you evaluate reward-to-risk ratio on a per trade level. In other words, it gives you an idea of what to expect from our trading systems on the average (i.e. per dollar risked).
+
+- 所有新建倉位的都是同一大小的。
+All new position sizes are the same.
+- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
+  - 所有头寸均以 **0.01** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在外汇货币对上允许的最低交易规模。
+  All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
+- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**
+  - 所有头寸均以 **0.1** [标准手](https://www.investopedia.com/terms/s/standard-lot.asp)开仓，这是[杜高斯貝银行](https://en.wikipedia.org/wiki/Dukascopy_Bank)在差價合約上允许的最低交易规模。
+  All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
+
+{: .box-note}
+接下來，為了簡短篇幅，我們將會用 <i class='fa fa-cogs'></i> 去標示 **動態手數**，與及用 <i class='fa fa-cog'></i> 去代表 **固定手數**。<br>Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
+
+以下所有的績效數值都已经考虑到了交易成本的負面衝擊，如点差、佣金和经纪商利息费用。换句话说，如果您能時光倒流回到過去實盤交易 <i class='fa fa-yen'></i> **塞雅瑪日元交易系统** 和 <i class='fa fa-yen'></i> **塞雅瑪指数交易系统**，您亦能体验到同样的结果。您也可以点击 <i class='fa fa-line-chart'></i> 链接直观地查看交易系統的权益增长情况；点击 <i class='fa fa-calendar'></i> 链接去查看 <i class='fa fa-percent'></i> 模型中以 <i class='fa fa-cogs'></i> 百分比为单位的月度权益增长，或 <i class='fa fa-dollar'></i> 模型中以 <i class='fa fa-cog'></i> 美元为单位的月度权益增长。
+
+All the numbers presented below have factored in negative impact of the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*. You can also click on the <i class='fa fa-line-chart'></i> link to visually examine the equity growth of the trading system; and click on the <i class='fa fa-calendar'></i> link to see the month-to-month equity growth in <i class='fa fa-percent'></i> percentage in the <i class='fa fa-cogs'></i> model or in <i class='fa fa-dollar'></i> dollar in the <i class='fa fa-cog'></i> model.
+
+## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> 日元策略績效<br>Yen System Performance
+
+历史交易系统业绩报告分为三个时间段（**C**、**B**、**A**），其中**C**是最近的，而**A**则是在历史数据允许的情况下进行延伸：<br>The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
+
+### **C**: 2016 to July 2020
+
+共進行了19676次交易，每个交易日大概开仓17.21次。<br>Total 19676 trades are made and roughly 17.21 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2016_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2016_2020.png)
+- <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **6.58**, where CAGR is 48.61% and MDD is 7.39%. Profit Factor: 1.45; Win Rate: 49.27%; Win # / Loss #: 0.64
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2016_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2016_2020.png)
+- <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2405R**, where the APPT is 0.69486938402 USD and the R is 2.88968440036 USD.
+
+### **B**: 2010 to 2015
+
+共进行了26495次交易。大概每个交易日开仓21.06次。<br>Total 26495 trades are made. Roughly 21.06 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2010_2015.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2010_2015.png)
+- <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **18.04**, where CAGR is 85.31% and MDD is 4.73%. <i class='fa fa-cogs'></i>: Profit Factor: 1.57; Win Rate: 50.36%; Win # / Loss #: 1.01
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2010_2015.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2010_2015.png)
+- <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.3241R**, where the APPT is 1.11580373655 USD and the R is 3.44271725082 USD.
+
+### **A**: 2004 to 2009
+
+共进行27583次交易。每个交易日大约开仓18.23次。<br>Total 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
+
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
+- <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.45**, where CAGR is 68.6% and MDD is 5.51%. <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 51.23%; Win # / Loss #: 1.05
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_capitalChart_2004_2009.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/jpy_0.01_monthlyPerformance_2004_2009.png)
+- <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
-敬請在支付完成後，[聯繫順道VPN官方客服](../contact_us)，讓我們發送相關奈飛的登錄和使用信息給您。注：<i class='fa fa-rocket' style='color:DimGrey'></i> 順道VPN官方客服只經由西蒂姆(Citum)客戶端App內的在線客服 <i class='fa fa-comments-o'></i> 提供咨詢：<i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+## <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> 股指策略績效<br>Index System Performance
 
-If you so happen traveling to China and intend to access Netflix from inside mainland China, please select the Bundled Plan below because Netflix has a [IP Restricted Area Policy](https://help.netflix.com/legal/termsofuse). Each Bundled Plan already includes all service features in the corresponding Plan above. The added <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN service allows you to access Netflix smoothly both from inside mainland China or aboard. Each of them has a 30-Day VPN traffic quota, which is reset on every 30th day since the day of activation. The unused leftover traffic quota will not rollover to the next period.
+历史交易系统业绩报告如下：<br>The historical trading system performance report is as follows:
 
-- **Bundled Plan Jr. (18.45 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 1 Month
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 30-Day <i class='fa fa-signal'></i> 100 GB
-- **Bundled Plan Plus (88.70 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 6 Months
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 180-Day <i class='fa fa-signal'></i> 110 GB
-- **Bundled Plan Jumbo (148.80 USD)**:
-  - <i class='fa fa-video-camera'></i> Netflix Premium 12 Months
-  - <i class='fa fa-rocket' style='color:DimGrey'></i> LubeVPN 360-Day <i class='fa fa-signal'></i> 120 GB
+### 2014 to July 2020
 
-Payment gateway of **Bundled Plan Jr./Plus/Jumbo** is offered by [eTickets.hk](https://etickets.hk/).
+总共交易23605笔，每个交易日大概开仓13.84笔。<br>Total 23605 trades are made and roughly 13.84 positions are opened on every trading day.
 
-[<i class='fa fa-shopping-cart'></i> Bundled Plan Jr./Plus/Jumbo](https://etickets.hk/en/project/lubevpn-netflix/)
-{: .myButton}
+#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
 
-Please contact our LIVE HELP <i class='fa fa-comments-o'></i> as soon as you finished the payment. You can find <i class='fa fa-comments-o'></i> in the Citium Client app by navigating as follows: <i class='fa fa-gears' style='color:blue'></i> > <i class='fa fa-certificate' style='color:blue'></i> > <i class='fa fa-question-circle' style='color:#ff6d12'></i> > <i class='fa fa-comments-o' style='color:#ff6d12'></i>
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/index_percent_capitalChart_2014_2020.png)
+- <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/index_percent_monthlyPerformance_2014_2020.png)
+- <i class='fa fa-cogs'></i>: **Annualized Risk Return Ratio** (CAGR / MDD) is **12.37**, where CAGR is 127.38% and MDD is 10.3%.
+
+#### <i class='fa fa-cog'></i> 固定手數<br>Fixed Lot
+
+- <i class='fa fa-cogs'></i>: Profit Factor: 1.76; Win Rate: 39.11%; Win # / Loss #: 0.64
+- <i class='fa fa-cog'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-dollar'></i>](/img_pr/index_0.1_capitalChart_2014_2020.png)
+- <i class='fa fa-cog'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-dollar'></i>](/img_pr/index_0.1_monthlyPerformance_2014_2020.png)
+- <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is **0.4261R**, where the APPT is 13.30 USD and the R is 31.20 USD.
