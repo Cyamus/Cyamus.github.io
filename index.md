@@ -6,7 +6,7 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-ATTN: Emerging managers, funds of funds, seeding/incubator platforms, family offices, high-net-worth individuals and endowments:
+*ATTN:* Emerging Managers, Seeding Platforms, Family Offices, High-net-worth Individuals and Endowments:
 
 {: .box-warning}
 **Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
