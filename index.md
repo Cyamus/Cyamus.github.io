@@ -35,13 +35,13 @@ Our quantitative developers focus on researching and developing mid-frequency tr
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
 
-The chart below measured our **Japanese Yen Pairs** and **Stock Index Pairs** combined system performance since August 24, 2015. The **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
-
-![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)
-
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**，which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD trading instruments.
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
+
+The chart below measured the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since August 24, 2015. The **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
+
+[![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)](/img_pr/pm_20200822130602.png)
 
 ## <i class='fa fa-university'></i> Cyamus' Trading Systems<br>
 
