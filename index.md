@@ -41,13 +41,19 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 
 ### FundSeeder Charts
 
-The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since August 24, 2015.
+The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years.
 
 #### Sharpe Ratio
 
 **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
 
 [![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)](/img_pr/pm_20200822130602.png)
+
+#### Sortino Ratio/√2
+
+[According to FundSeeder](https://fundseeder.com/FundSeeder%20Analytics%20Manual.pdf), *Sortino Ratio/√2* allows for comparing the Sortino ratio to the Sharpe ratio. They multiply the risk measure of the Sortino ratio by the square root of 2 (which is the same as dividing the Sortino ratio by the square root of 2).  Their adjusted version of the Sortino ratio allows for direct comparisons of the the Sharpe and Sortino ratios. Generally speaking, a higher adjusted Sortino ratio implies that the distribution of returns is right-skewed (a greater tendency for large gains than large losses). And, similarly, a lower adjusted Sortino ratio implies returns are left-skewed (a greater propensity for large losses than large gains). **Sortino Ratio/√2 (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.95 and reached as high as 97.49.
+
+[![Sortino Ratio/√2 (Three-Month Rolling Window)](/img_pr/sortino_20200822141818.png)](/img_pr/sortino_20200822141818.png)
 
 #### Correlation
 
