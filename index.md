@@ -6,7 +6,7 @@ bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
 ---
 
-__*ATTN:*__ Emerging Managers, First-Loss Platforms, Family Offices, High-net-worth Individuals and Endowments:
+__*ATTN:*__ Emerging Managers, Funded Trader Programs, First-Loss Platforms, Family Offices, High-net-worth Individuals and Endowments:
 
 {: .box-warning}
 **Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
@@ -34,6 +34,10 @@ Our quantitative developers focus on researching and developing mid-frequency tr
       - *ETH/USD*
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** is historically back-tested since the year 2004 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). Forex brokerage industry is trending toward offering higher and higher [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp), sometimes up to 200:1 but the entry signaled by Cyamus Yen Trading System *have never* exceeded **7.42:1**. Therefore, our clients can take comfort in knowing that most of the forex brokers that they have been using for years are most likely to be compatible with Cyamus Yen Trading System.
+
+The chart below measured our **Japanese Yen Pairs** and **Stock Index Pairs** combined system performance since August 24, 2015. The **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
+
+![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)
 
 <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** is historically back-tested since the year 2014 based on bid-n-ask tick data provided by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank). The [leverage ratio](https://www.investopedia.com/ask/answers/06/forexleverage.asp) used by Cyamus Index Trading System *have never* exceeded **14.35:1**，which is well below 50:1 (weekday) and 30:1 (weekend) offered by Dukascopy Bank on CFD trading instruments.
 
