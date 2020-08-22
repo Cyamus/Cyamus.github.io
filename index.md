@@ -43,6 +43,12 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 
 The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years.
 
+#### Equity Return
+
+**Return (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 3.96% and reached as high as 59.20%.
+
+[![Return (Three-Month Rolling Window)](/img_pr/return_20200822145552.png)](/img_pr/return_20200822145552.png)
+
 #### Sharpe Ratio
 
 **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
