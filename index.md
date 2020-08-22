@@ -39,11 +39,19 @@ Our quantitative developers focus on researching and developing mid-frequency tr
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
-The chart below measured the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since August 24, 2015. Its **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
+### FundSeeder Charts
+
+The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since August 24, 2015.
+
+#### Sharpe Ratio
+
+**Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
 
 [![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)](/img_pr/pm_20200822130602.png)
 
-The chart below measured the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since August 24, 2015. Its **Correlation (Three-Month Rolling Window)** exhibits low correlation with CTA and stocks so that Cyamus systems can add significant diversification benefits to your existing portfolio.
+#### Correlation
+
+**Correlation (Three-Month Rolling Window)** exhibits low correlation with CTA and stocks so that Cyamus systems can add significant diversification benefits to your existing portfolio.
 
 [![Correlation (Three-Month Rolling Window)](/img_pr/corr_20200822135159.png)](/img_pr/corr_20200822135159.png)
 
