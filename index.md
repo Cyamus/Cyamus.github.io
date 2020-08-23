@@ -49,12 +49,25 @@ The following [FundSeeder](https://fundseeder.com/) chart summarizes the major p
 
 It shows that the overall performance of Cyamus as indicated by **FS Score** is 82, which ranks among the top 3 performers in the [FundSeeder Leaderboard](https://fundseeder.zendesk.com/hc/en-us/articles/228176927-Why-isn-t-my-account-displayed-on-the-Leaderboard-at-FundSeeder-).
 
+{: .box-note}
+[Click the link](https://fundseeder.zendesk.com/hc/en-us/articles/221893408-Tool-Tips-What-is-the-FundSeeder-Score-VIDEO-) to watch FundSeeder co-founder and CRO [Jack Schwager](https://jackschwager.com/) (author of the Market Wizards series of books) discusses the proprietary FundSeeder score.
+
 #### Sharpe ratio: 7.71
 
 Our **Sharpe Ratio** _**ranks the highest**_ among all systems on FundSeeder at _**7.71**_. The second (2nd) and third (3rd) ranking system that come after has 3.8 and 3.47 only. It means that our risk-adjusted return is extraordinary!
 
-{: .box-note}
-[Click the link](https://fundseeder.zendesk.com/hc/en-us/articles/221893408-Tool-Tips-What-is-the-FundSeeder-Score-VIDEO-) to watch FundSeeder co-founder and CRO [Jack Schwager](https://jackschwager.com/) (author of the Market Wizards series of books) discusses the proprietary FundSeeder score.
+### Asymmetric Payoff
+
+Here in Cyamus Trading, we pride ourselves on delivering [asymmetric payoff](https://en.wikipedia.org/wiki/Asymmetric_payoff) to investors. In the following, **Monthly Gain to Pain Ratio** and **Sortino Ratio/√2** will show you how exactly how great we are doing it! 
+
+#### Monthly Gain to Pain Ratio: 54.89
+
+Our **Monthly GPR** also _**ranks the highest**_ among all systems on FundSeeder at _**54.89**_. The second (2nd) and third (3rd) ranking system that come after has 16.98 and 6.64 only. It means that our risk-adjusted downside deviation is unparalleled!
+
+#### Sortino Ratio/√2: 17.94
+
+Our **Sortino Ratio/√2** also _**ranks the highest**_ among all systems on FundSeeder at _**17.94**_. The second (2nd) and third (3rd) ranking system that come after has 5.13 and 4.78 only. It means that our risk-adjusted downside deviation is phenomenal!
+
 
 ### Rolling Window Analysis
 
