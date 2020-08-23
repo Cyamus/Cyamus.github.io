@@ -54,7 +54,7 @@ The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-
 
 1. Return on equity
 2. Sharpe ratio
-3. Sortino Ratio/√2
+3. Sortino ratio/√2
 4. Correlation
 
 #### 1. Equity Return
