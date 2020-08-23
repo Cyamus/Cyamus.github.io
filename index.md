@@ -58,7 +58,7 @@ Our **Sharpe Ratio** _**ranks the highest**_ among all systems on FundSeeder at 
 
 ### Rolling Window Analysis
 
-The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years in terms of
+The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years in terms of:
 
 1. Return on equity
 2. Sharpe ratio
