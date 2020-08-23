@@ -41,11 +41,11 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 
 ### FundSeeder Charts
 
-The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** since 6 January 2004.
+The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the combined performance of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2004.
 
 [![Cyamus Vital](/img_pr/sum_20200822164632.png)](/img_pr/sum_20200822164632.png)
 
-It shows that the **FS Score** of Cyamus' overall performance is 82, which ranks among the top 3 performers in the [FundSeeder Leaderboard](https://fundseeder.zendesk.com/hc/en-us/articles/228176927-Why-isn-t-my-account-displayed-on-the-Leaderboard-at-FundSeeder-).
+It shows that the overall performance of Cyamus as indicated by **FS Score** is 82, which ranks among the top 3 performers in the [FundSeeder Leaderboard](https://fundseeder.zendesk.com/hc/en-us/articles/228176927-Why-isn-t-my-account-displayed-on-the-Leaderboard-at-FundSeeder-).
 
 {: .box-note}
 [Click the link](https://fundseeder.zendesk.com/hc/en-us/articles/221893408-Tool-Tips-What-is-the-FundSeeder-Score-VIDEO-) to watch FundSeeder co-founder and CRO [Jack Schwager](https://jackschwager.com/) (author of the Market Wizards series of books) discusses the proprietary FundSeeder score.
