@@ -164,7 +164,7 @@ Total 26495 trades are made. Roughly 21.06 positions are opened on every trading
 
 Total 27583 trades are made. Roughly 18.23 positions are opened on every trading day.
 
-#### <i class='fa fa-cogs'></i> 動態手數<br>Dynamic Lot
+#### <i class='fa fa-cogs'></i> Dynamic Lot
 
 - <i class='fa fa-cogs'></i>: [<i class='fa fa-line-chart'></i> Equity Curve <i class='fa fa-percent'></i>](/img_pr/jpy_percent_capitalChart_2004_2009.png)
 - <i class='fa fa-cogs'></i>: [<i class='fa fa-calendar'></i> Monthly Profit-and-Loss <i class='fa fa-percent'></i>](/img_pr/jpy_percent_monthlyPerformance_2004_2009.png)
