@@ -39,7 +39,7 @@ Our quantitative developers focus on researching and developing mid-frequency tr
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
-### FundSeeder Charts
+## Overview by FundSeeder
 
 The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the combined performance of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2004.
 
@@ -57,25 +57,25 @@ The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-
 3. Sortino ratio/√2
 4. Correlation
 
-#### 1. Equity Return
+### 1. Equity Return
 
 **Return on Equity (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 3.96% and reached as high as 59.20%.
 
 [![Return (Three-Month Rolling Window)](/img_pr/return_20200822145552.png)](/img_pr/return_20200822145552.png)
 
-#### 2. Sharpe Ratio
+### 2. Sharpe Ratio
 
 **Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
 
 [![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)](/img_pr/pm_20200822130602.png)
 
-#### 3. Sortino Ratio/√2
+### 3. Sortino Ratio/√2
 
 [According to FundSeeder](https://fundseeder.com/FundSeeder%20Analytics%20Manual.pdf), *Sortino Ratio/√2* allows for comparing the Sortino ratio to the Sharpe ratio. They multiply the risk measure of the Sortino ratio by the square root of 2 (which is the same as dividing the Sortino ratio by the square root of 2).  Their adjusted version of the Sortino ratio allows for direct comparisons of the the Sharpe and Sortino ratios. Generally speaking, a higher adjusted Sortino ratio implies that the distribution of returns is right-skewed (a greater tendency for large gains than large losses). And, similarly, a lower adjusted Sortino ratio implies returns are left-skewed (a greater propensity for large losses than large gains). **Sortino Ratio/√2 (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.95 and reached as high as 97.49.
 
 [![Sortino Ratio/√2 (Three-Month Rolling Window)](/img_pr/sortino_20200822141818.png)](/img_pr/sortino_20200822141818.png)
 
-#### 4. Correlation
+### 4. Correlation
 
 **Correlation (Three-Month Rolling Window)** exhibits low correlation with CTA and stocks so that Cyamus systems can add significant diversification benefits to your existing portfolio.
 
