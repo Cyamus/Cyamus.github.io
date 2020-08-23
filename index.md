@@ -62,11 +62,11 @@ Here in Cyamus Trading, we pride ourselves on delivering [asymmetric payoff](htt
 
 #### Monthly Gain to Pain Ratio: 54.89
 
-Our **Monthly GPR** _**ranks the highest**_ among all systems on FundSeeder at _**54.89**_. The second (2nd) and third (3rd) ranking system that come after has 16.98 and 6.64 only. It means that our risk-adjusted downside deviation is unparalleled!
+Our **Monthly GPR** _**ranks the highest**_ among all systems on FundSeeder at _**54.89**_. The second (2nd) and third (3rd) ranking system that come after has 16.98 and 6.64 only. It means that our downward risk-adjusted upside potential is unparalleled!
 
 #### Sortino Ratio/√2: 17.94
 
-Our **Sortino Ratio/√2** also _**ranks the highest**_ among all systems on FundSeeder at _**17.94**_. The second (2nd) and third (3rd) ranking system that come after has 5.13 and 4.78 only. It means that our risk-adjusted downside deviation is phenomenal!
+Our **Sortino Ratio/√2** also _**ranks the highest**_ among all systems on FundSeeder at _**17.94**_. The second (2nd) and third (3rd) ranking system that come after has 5.13 and 4.78 only. It means that our downward risk-adjusted upside potential is phenomenal!
 
 
 ### Rolling Window Analysis
