@@ -51,7 +51,7 @@ It shows that the overall performance of Cyamus as indicated by **FS Score** is 
 
 #### Sharpe ratio: 7.71
 
-**Cyamus Sharpe Ratio rank the highest** among all systems on FundSeeder.
+Our **Sharpe Ratio** _**ranks the highest**_ among all systems on FundSeeder at _**7.71**_. The second (2nd) and third (3rd) ranking system that come after has 3.8 and 3.47 only. It means that our risk-adjusted return is extraordinary!
 
 {: .box-note}
 [Click the link](https://fundseeder.zendesk.com/hc/en-us/articles/221893408-Tool-Tips-What-is-the-FundSeeder-Score-VIDEO-) to watch FundSeeder co-founder and CRO [Jack Schwager](https://jackschwager.com/) (author of the Market Wizards series of books) discusses the proprietary FundSeeder score.
