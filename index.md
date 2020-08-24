@@ -41,7 +41,7 @@ Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='
 
 ## Overview by FundSeeder
 
-The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the combined performance of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2004.
+The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the *combined performance* of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2014.
 
 [![Cyamus Vital](/img_pr/sum_20200822164632.png)](/img_pr/sum_20200822164632.png)
 
