@@ -69,7 +69,7 @@ Our **Sharpe Ratio** _**ranks the highest**_ among all systems on FundSeeder at 
 
 ### <i class='fa fa-volume-up'></i> Asymmetric Payoff
 
-Here in Cyamus Trading, we pride ourselves on delivering <i class='fa fa-volume-up'></i> [asymmetric payoff](https://en.wikipedia.org/wiki/Asymmetric_payoff) to clients. In the following, **Monthly Gain to Pain Ratio** and **Sortino Ratio/√2** will show you how exactly how great we are doing it!
+Here in Cyamus Trading, we pride ourselves on delivering <i class='fa fa-volume-up'></i> [asymmetric payoff](https://en.wikipedia.org/wiki/Asymmetric_payoff) to clients. In the following, **Monthly Gain to Pain Ratio** and **Sortino Ratio/√2** will show how great we are doing it!
 
 #### Monthly Gain to Pain Ratio: 54.89
 
