@@ -11,7 +11,9 @@ __*ATTN:*__ Emerging Managers, Funded Trader Programs, First-Loss Platforms, Fam
 {: .box-warning}
 **Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
-<i class='fa fa-university'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, all of our trading systems offer **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) higher than 6, and **Quarterly Annualized** ones higher than 1. We do not use the [two and twenty (or "2 and 20") fee arrangement](https://www.investopedia.com/terms/t/two_and_twenty.asp). Ours is "0 and X". That is, clients paying agreed X only if our trading system performs as expected.
+<i class='fa fa-university'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff). In fact, all of our trading systems offer **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) higher than 6, and **Quarterly Annualized** ones higher than 1.
+
+Since February 2019, we launched our own systems and started issuing *LIVE* trading signals to a few accounts belonged to our friends and family. We do not use the [two and twenty (or "2 and 20") fee arrangement](https://www.investopedia.com/terms/t/two_and_twenty.asp). Ours is "0 and X". That is, clients paying agreed X only if our trading system performs as expected.
 
 Our quantitative developers focus on researching and developing mid-frequency trading systems for the financial instruments that offer the highest [spread-to-pip potential](https://www.investopedia.com/articles/forex/10/spread-pip-potential-pairs-day-trading.asp). We develop trading systems to trade the instruments that belong to these three categories: 1) **Japanese Yen Pairs**; 2) **Stock Index Pairs**; and 3) **Crypto Pairs**. The strategies that trade on the *Japanese Yen Pairs* and *Stock Index Pairs* have gone *LIVE* trading real money since February 2019; and the one that trade on the *Crypto Pairs* is still being tested in-house sooner become available for invited clients to trade *LIVE*:
 
@@ -50,7 +52,7 @@ We believe that spectacular *LIVE* trading results and satisfactory clients are 
 
 ## <i class='fa fa-bar-chart'></i> By FundSeeder
 
-The following [FundSeeder](https://fundseeder.com/) chart summarizes the major performance measures of the *combined performance* of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2014.
+The following [FundSeeder](https://fundseeder.com/) charts summarize the major performance measures of the *combined performance* of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since 6 January 2014.
 
 [![Cyamus Vital](/img_pr/sum_20200822164632.png)](/img_pr/sum_20200822164632.png)
 
@@ -65,9 +67,9 @@ It shows that the overall performance of Cyamus as indicated by **FS Score** is 
 
 Our **Sharpe Ratio** _**ranks the highest**_ among all systems on FundSeeder at _**7.71**_. The second (2nd) and third (3rd) ranking system that come after has 3.8 and 3.47 only. It means that our risk-adjusted return is extraordinary!
 
-### Asymmetric Payoff
+### <i class='fa fa-volume-up'></i> Asymmetric Payoff
 
-Here in Cyamus Trading, we pride ourselves on delivering [asymmetric payoff](https://en.wikipedia.org/wiki/Asymmetric_payoff) to clients. In the following, **Monthly Gain to Pain Ratio** and **Sortino Ratio/√2** will show you how exactly how great we are doing it!
+Here in Cyamus Trading, we pride ourselves on delivering <i class='fa fa-volume-up'></i> [asymmetric payoff](https://en.wikipedia.org/wiki/Asymmetric_payoff) to clients. In the following, **Monthly Gain to Pain Ratio** and **Sortino Ratio/√2** will show you how exactly how great we are doing it!
 
 #### Monthly Gain to Pain Ratio: 54.89
 
@@ -78,40 +80,42 @@ Our **Monthly GPR** _**ranks the highest**_ among all systems on FundSeeder at _
 Our **Sortino Ratio/√2** also _**ranks the highest**_ among all systems on FundSeeder at _**17.94**_. The second (2nd) and third (3rd) ranking system that come after has 5.13 and 4.78 only. It means that our downward risk-adjusted upside potential is phenomenal!
 
 
-### Rolling Window Analysis
+### <i class='fa fa-window-restore'></i> Rolling Window Analysis
 
-The following [FundSeeder](https://fundseeder.com/) charts display the [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years in terms of:
+The following [FundSeeder](https://fundseeder.com/) charts display the <i class='fa fa-window-restore'></i> [rolling-window analysis](https://www.mathworks.com/help/econ/rolling-window-estimation-of-state-space-models.html) of the combined performance of **Cyamus Index Trading System** and **Cyamus Yen Trading System** of the last five (5) years in terms of:
 
 1. Return on equity
 2. Sharpe ratio
 3. Sortino ratio/√2
 4. Correlation
 
-#### 1. Equity Return
+#### 1. <i class='fa fa-window-restore'></i> Equity Return
 
-**Return on Equity (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 3.96% and reached as high as 59.20%.
+**Return on Equity (Three-Month <i class='fa fa-window-restore'></i> Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 3.96% and reached as high as 59.20%.
 
 [![Return (Three-Month Rolling Window)](/img_pr/return_20200822145552.png)](/img_pr/return_20200822145552.png)
 
-#### 2. Sharpe Ratio
+#### 2. <i class='fa fa-window-restore'></i> Sharpe Ratio
 
-**Sharpe Ratio (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
+**Sharpe Ratio (Three-Month <i class='fa fa-window-restore'></i> Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.14 and reached as high as 25.
 
 [![Sharpe Ratio (Three-Month Rolling Window)](/img_pr/pm_20200822130602.png)](/img_pr/pm_20200822130602.png)
 
-#### 3. Sortino Ratio/√2
+#### 3. <i class='fa fa-window-restore'></i> Sortino Ratio/√2
 
-[According to FundSeeder](https://fundseeder.com/FundSeeder%20Analytics%20Manual.pdf), *Sortino Ratio/√2* allows for comparing the Sortino ratio to the Sharpe ratio. They multiply the risk measure of the Sortino ratio by the square root of 2 (which is the same as dividing the Sortino ratio by the square root of 2).  Their adjusted version of the Sortino ratio allows for direct comparisons of the the Sharpe and Sortino ratios. Generally speaking, a higher adjusted Sortino ratio implies that the distribution of returns is right-skewed (a greater tendency for large gains than large losses). And, similarly, a lower adjusted Sortino ratio implies returns are left-skewed (a greater propensity for large losses than large gains). **Sortino Ratio/√2 (Three-Month Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.95 and reached as high as 97.49.
+[According to FundSeeder](https://fundseeder.com/FundSeeder%20Analytics%20Manual.pdf), *Sortino Ratio/√2* allows for comparing the Sortino ratio to the Sharpe ratio. They multiply the risk measure of the Sortino ratio by the square root of 2 (which is the same as dividing the Sortino ratio by the square root of 2).  Their adjusted version of the Sortino ratio allows for direct comparisons of the the Sharpe and Sortino ratios. Generally speaking, a higher adjusted Sortino ratio implies that the distribution of returns is right-skewed (a greater tendency for large gains than large losses). And, similarly, a lower adjusted Sortino ratio implies returns are left-skewed (a greater propensity for large losses than large gains). **Sortino Ratio/√2 (Three-Month <i class='fa fa-window-restore'></i> Rolling Window)** consistently beats benchmarks, such as SG CTA Index, maintained well above 1.95 and reached as high as 97.49.
 
 [![Sortino Ratio/√2 (Three-Month Rolling Window)](/img_pr/sortino_20200822141818.png)](/img_pr/sortino_20200822141818.png)
 
-#### 4. Correlation
+#### 4. <i class='fa fa-window-restore'></i> Correlation
 
-**Correlation (Three-Month Rolling Window)** exhibits low correlation with CTA and stocks so that Cyamus systems can add significant diversification benefits to your existing portfolio.
+**Correlation (Three-Month <i class='fa fa-window-restore'></i> Rolling Window)** exhibits low correlation with CTA and stocks so that Cyamus systems can add significant diversification benefits to your existing portfolio.
 
 [![Correlation (Three-Month Rolling Window)](/img_pr/corr_20200822135159.png)](/img_pr/corr_20200822135159.png)
 
-## <i class='fa fa-bar-chart'></i> By Quant Analyser
+## <i class='fa fa-bar-chart'></i> By Quant Analyzer
+
+The following [Quant Anlayzer](https://strategyquant.com/quantanalyzer) charts summarize the major performance measures of the *individual performance* of <i class='fa fa-yen'></i> **Cyamus Yen Trading System** since January 2004 and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** since January 2014.
 
 The earliest trading system that we developed is on *Japanese Yen Pairs* (<b>USDJPY</b>, <b>EURJPY</b> and <b>GBPJPY</b>) are <i class='fa fa-yen'></i> **Cyamus Yen Trading System**. The other trading system that Cyamus developed is on two (2) stock index pairs: <b>USA30.IDX/USD</b> and <b>DEU.IDX/EUR</b>. They have been traded *LIVE* since Feb 2019 on [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank).
 
@@ -144,7 +148,7 @@ Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to deno
 
 All the numbers presented below have factored in negative impact of the transaction costs, such as spread, commissions and broker interest charges. In other words, you would have experienced the same results if you manage to travel back in time to trade <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-yen'></i> **Cyamus Index Trading System** *LIVE*. You can also click on the <i class='fa fa-line-chart'></i> link to visually examine the equity growth of the trading system; and click on the <i class='fa fa-calendar'></i> link to see the month-to-month equity growth in <i class='fa fa-percent'></i> percentage in the <i class='fa fa-cogs'></i> model or in <i class='fa fa-dollar'></i> dollar in the <i class='fa fa-cog'></i> model.
 
-## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> Yen System Performance
+## <i class='fa fa-yen'></i> / <i class='fa fa-bar-chart'></i> Yen by Quant Analyzer
 
 The historical trading system performance report is broken down in three (3) timeframes (**C**, **B**, **A**), where **C** is the most recent and **A** stretches as back as historical data allows:
 
@@ -197,7 +201,7 @@ Total 27583 trades are made. Roughly 18.23 positions are opened on every trading
 - <i class='fa fa-cog'></i>: **R-Expectancy** (APPT / R) is  **0.2673R**, where the APPT is 0.90578979806 USD and the R is 3.38926598675 USD.
 
 
-## <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> Index System Performance
+## <i class='fa fa-pie-chart'></i> / <i class='fa fa-bar-chart'></i> Index by Quant Analyzer
 
 The historical trading system performance report is as follows:
 
