@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyamus Trading
+title: <i class='fa fa-magic'></i> Cyamus Trading
 subtitle: Performance Tear Sheet
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
@@ -11,7 +11,7 @@ __*ATTN:*__ Emerging Managers, Funded Trader Programs, First-Loss Platforms, Fam
 {: .box-warning}
 **Disclaimer**: Cyamus does not provide any tax, legal or investment advice, personal recommendation or advising on investments and nothing in this website should be construed or interpreted as an investment advice, an offer to sell or buy, a solicitation of an offer to buy, or a recommendation related to any investment in financial instrument.
 
-<i class='fa fa-university'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek <i class='fa fa-volume-up'></i> asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff).
+<i class='fa fa-magic'></i> **Cyamus Trading** ("**Cyamus**") is founded in 2019 by [Terry Li](https://bit.ly/terryli) (ex-VP of [796 Exchange](https://www.796.com), ex-CEO of [TDEx](https://www.tdex.com), and a license distributor of [Trading System Lab](https://www.tradingsystemlab.com) for the greater China region). Cyamus offers systematic trading and data analysis services to institutional clients who actively [seek <i class='fa fa-volume-up'></i> asymmetric returns](https://en.wikipedia.org/wiki/Asymmetric_payoff).
 
 All trading system performances falter from time to time. In general, investors are willing to endure as long as the stagnations are worthwhile; meaning, short stagnant period and a drawdown on equity comparatively small to the upside potential that comes after the stagnant period. Cyamus develops mid-frequency trading systems, which [time-horizon](https://en.wikipedia.org/wiki/Time_horizon) is semiannual. All of our trading systems have **Annualized [Risk Return Ratio](https://en.wikipedia.org/wiki/Risk_return_ratio)** ([CAGR](https://www.investopedia.com/terms/c/cagr.asp) / [MDD](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)) higher than 6, and **Quarterly Annualized** ones higher than 0.5. Therefore, one can expect that a three-month time is how long the [AUM](https://www.investopedia.com/terms/a/aum.asp) of Cyamus takes to eclipse its prior [high-water mark](https://www.investopedia.com/terms/h/highwatermark.asp) and that one-year time to see satisfactory [RORAC](investopedia.com/terms/r/raroc.asp).
 
@@ -43,7 +43,7 @@ We focus on financial instruments that offer the highest [spread-to-pip potentia
 
 Note that <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** take on new position as market opportunity presents itself, i.e. decision making process of opening a new position does not take existing position(s) into consideration. Therefore, position [scaling](https://learn.tradimo.com/dont-go-broke-protect-your-capital/scaling-in-and-out-of-trades) and [hedging](https://www.investopedia.com/ask/answers/forex/forex-hedge-and-currency-hedging-strategy.asp) may happen but they are not inherit part of the trading system.
 
-## <i class='fa fa-university'></i> Cyamus' Trading Systems<br>
+## <i class='fa fa-magic'></i> Cyamus' Trading Systems<br>
 
 <i class='fa fa-yen'></i> **Cyamus Yen Trading System** and <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System** have helped clients trade *LIVE* market since February 2019. Our clients are happy to see that their *LIVE* trading performance resembles historical performance. Note that historical performance resembles *LIVE* trading results in terms of entry and exit price points only. The rates of return on investment vary based on clients' individual [risk tolerance](https://www.investopedia.com/terms/r/risktolerance.asp).
 
