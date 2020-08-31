@@ -132,10 +132,14 @@ Historical backtesting reports of the two trading systems are presented below. T
 
 Dynamic Lot as a position sizing technique helps you understand how your investment may grow in time in percentage terms, effectively eliminating the factor of risk capital allocation. That is, no matter how much money you allocate to trade the systems initially, the performance measures can still be applicable because all new positions are dynamically sized based on **current account balance** (**CAB**) at time of opening a new position and **[maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp)** (**MDD**).
 
-- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
-  - Newly established position size equals to **0.01 x 10% x CAB/MDD**, where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-7.36%** based on 2004 to July 2020 historical performance data.
-- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**:
-  - Newly established position size equal to **0.1 x 10% x CAB/MDD**, where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank), the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and the **MDD** is **-10.30%** based on 2014 to July 2020 historical performance data.
+- <i class='fa fa-yen'></i> **Cyamus Yen Trading System**'s newly established position size equals to **0.01 x 10% x CAB/MDD**,
+  - where the 0.01 is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank),
+  - where the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and
+  - where **MDD** is **$511.93 USD** every 0.01 lot traded, based on 2004 to August 2020 *LIVE* and historical performance data.
+- <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**'s newly established position size equal to **0.1 x 10% x CAB/MDD**,
+  - where the 0.1 is the minimum transaction size on stock index pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank),
+  - where the 10% is the controlling factor for **[risk capital](https://www.investopedia.com/terms/r/riskcapital.asp)**, and
+  - where **MDD** is **$5,452.53 USD** every 0.1 lot traded based on 2014 to August 2020 *LIVE* and historical performance data.
 
 ### <i class='fa fa-cog'></i> Fixed Lot
 
@@ -143,9 +147,9 @@ Fixed Lot as a position sizing technique allows us to give you a fair and reason
 
 - All new position sizes are the same.
 - <i class='fa fa-yen'></i> **Cyamus Yen Trading System**
-  - All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
+  - All positions are opened with **0.01** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on forex currency pairs.
 - <i class='fa fa-pie-chart'></i> **Cyamus Index Trading System**
-  - All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
+  - All positions are opened with **0.1** [standard lot](https://www.investopedia.com/terms/s/standard-lot.asp), which is the minimum transaction size on forex currency pairs permissible by [Dukascopy Bank](https://en.wikipedia.org/wiki/Dukascopy_Bank) on stock index [CFD](https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp)s.
 
 {: .box-note}
 Throughout this page, we will continue to use <i class='fa fa-cogs'></i> to denote <b>Dynamic Lot</b>; and to use <i class='fa fa-cog'></i> to denote <b>Fixed Lot</b> for clarity and shortness.
