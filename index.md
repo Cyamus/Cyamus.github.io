@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <i class='fa fa-magic'></i> Cyamus Trading
+title: Cyamus Trading
 subtitle: Performance Tear Sheet
 bigimg: /img_pr/cyamus_bg.jpg
 googlefonts: ["Roboto Condensed"]
